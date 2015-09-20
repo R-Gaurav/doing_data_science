@@ -1,4 +1,4 @@
-DDS 1:
+#DDS 1:
 
 data1<- read.csv(“nyt1.csv”)
 
